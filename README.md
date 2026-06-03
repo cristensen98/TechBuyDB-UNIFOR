@@ -24,6 +24,7 @@ O projeto está organizado com os seguintes arquivos:
 - **SGBD Utilizado**: SQLite (Padrão ANSI SQL compatível com PostgreSQL, MySQL e SQL Server).
 - **pandas**: Biblioteca utilizada no script de verificação automática para executar as queries e formatar os resultados em tabelas.
 - **SQLite Viewer**: Para a visualização das tabelas.
+- **Python**: Para a execução do script de teste de queries.
 
 ---
 
